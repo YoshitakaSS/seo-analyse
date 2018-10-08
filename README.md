@@ -1,0 +1,2 @@
+# seo-analyse
+Google検索結果上位1ページのWebサイトのSEO要素を取得し、csvファイルに出力する
